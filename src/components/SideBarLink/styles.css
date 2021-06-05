@@ -1,0 +1,24 @@
+.side-bar-link {
+  height: 50px;
+  transition: all 0.4s ease-in-out;
+  display: flex;
+  align-items: center;
+  font-size: 14px;
+  padding-left: 30px;
+  color: var(--black-color);
+}
+.side-bar-link {
+  text-decoration: none;
+}
+.side-bar-link:visited {
+  text-decoration: none;
+  cursor: pointer;
+}
+.side-bar-link:hover {
+  color: var(--primary-color-one);
+}
+
+.side-bar-link--active {
+  background-color: var(--white-color);
+  color: var(--primary-color-one);
+}

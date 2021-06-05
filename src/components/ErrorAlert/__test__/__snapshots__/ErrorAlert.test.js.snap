@@ -1,0 +1,3 @@
+// Jest Snapshot v1, https://goo.gl/fbAQLP
+
+exports[`alert label renders with correct text 1`] = `"An error here"`;
