@@ -1,6 +1,6 @@
 import styled from "@emotion/styled";
-import { COLOR_PRIMARY_TWO } from "../../contants/style";
-import { TextSmall } from "../Text/Text";
+import { COLOR_PRIMARY_TWO } from "../../../constants/style";
+import { TextSmall } from "../../../components/Text/Text";
 
 const MaxRewardObserver = ({ currentPointSum, followsLen }) => {
   return (

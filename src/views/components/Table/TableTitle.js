@@ -1,6 +1,6 @@
 import styled from "@emotion/styled";
 import { CSS_TABLE_CONTAINER_PADDING } from "../../style/shared";
-import { TextBoldMid } from "../Text/Text";
+import { TextBoldMid } from "../../../components/Text/Text";
 
 const TableTitle = ({ children }) => {
   return (

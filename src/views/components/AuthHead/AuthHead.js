@@ -1,6 +1,6 @@
 import styled from "@emotion/styled";
 import StyledLine from "../StyledLine/StyledLine";
-import { TextBig } from "../Text/Text";
+import { TextBig } from "../../../components/Text/Text";
 
 const AuthHead = (props) => {
   return (
