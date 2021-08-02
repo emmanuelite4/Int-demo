@@ -3,7 +3,7 @@ import React from "react";
 // import { render as rtlRender } from "@testing-library/react";
 import { createStore } from "redux";
 import { Provider } from "react-redux";
-import rootReducer from "./application/rootReducer";
+import rootReducer from "./store/rootReducer";
 import { history } from "./application/configureStore";
 import { ConnectedRouter } from "connected-react-router";
 import { mount } from "enzyme";

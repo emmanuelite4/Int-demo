@@ -1,8 +1,8 @@
 import React from "react";
 import { css } from "@emotion/css";
 import { useDispatch, useSelector } from "react-redux";
-import { selectCurrentUser } from "../../application/user/user.selector";
-import { logout } from "../../application/user/user.slice";
+import { selectCurrentUser } from "../../store/entities/user/user.selector";
+import { logout } from "../../store/entities/user/user.slice";
 import SideBarLink from "./SideBarLink/SideBarLink";
 
 function SideMenu() {

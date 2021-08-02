@@ -1,7 +1,7 @@
 import styled from "@emotion/styled";
-import { COLOR_PRIMARY_ONE } from "../../contants/style";
+import { COLOR_PRIMARY_ONE } from "../../../constants/style";
 import { CSS_CARD } from "../../style/shared";
-import { TextMid, TextVeryBig } from "../Text/Text";
+import { TextMid, TextVeryBig } from "../../../components/Text/Text";
 
 const BrandInfo = ({ logoUrl, name, symbol }) => {
   return (

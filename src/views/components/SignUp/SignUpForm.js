@@ -8,7 +8,7 @@ import useSignUpForm from "../../hooks/useSignUpForm";
 import ErrorAlert from "../ErrorAlert/ErrorAlert";
 import Stepper from "../Stepper";
 import Button from "../Button";
-import { LOG_IN_URL } from "../../contants/navigation";
+import { LOG_IN_URL } from "../../../constants/navigation";
 import AuthContainerFooter from "../AuthContainerFooter/AuthContainerFooter";
 
 const SignupForm = () => {

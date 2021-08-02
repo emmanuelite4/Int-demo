@@ -1,11 +1,9 @@
-import Button from "../../Button";
+import Button from "../../../../components/Button/Button";
 import StyledLine from "../../StyledLine/StyledLine";
 import TableBodyItem from "../../Table/TableBodyItem";
-import TableItem from "../../Table/TableBodyItem";
 import TableHeadItem from "../../Table/TableHeadItem";
 import {
   HeadlineContainer,
-  Item,
   ItemContainer,
   LogoItem,
 } from "../shared/Brand";

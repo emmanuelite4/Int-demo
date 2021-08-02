@@ -1,6 +1,6 @@
 import styled from "@emotion/styled";
-import Card from "../Card/Card";
-import { TextBig, TextBoldMid } from "../Text/Text";
+import Card from "../../../components/Card/Card";
+import { TextBig, TextBoldMid } from "../../../components/Text/Text";
 
 const PointCard = ({ point, label }) => {
   return (

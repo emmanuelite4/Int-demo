@@ -1,6 +1,6 @@
 import styled from "@emotion/styled";
-import AppLink from "../AppLink/AppLink";
-import Button from "../Button";
+import AppLink from "../../../components/AppLink/AppLink";
+import Button from "../../../components/Button/Button";
 
 const AuthContainerFooter = ({
   to,

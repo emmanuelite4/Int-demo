@@ -1,5 +1,5 @@
-import Input from "../Input/Input";
-import Button from "../Button";
+import Input from "../../../components/Input/Input";
+import Button from "../../../components/Button/Button";
 import styled from "@emotion/styled";
 
 const AwardUserForm = ({
