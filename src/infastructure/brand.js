@@ -1,0 +1,76 @@
+const brands = [
+  {
+    id: "ea4158b8831a4045b907c05f3b2194bf",
+    name: "America Express",
+    logoUrl: "/assets/images/america_express.png",
+    maxPoints: 7000,
+    userId: "fer9d4e0-ce47-4b76-a18c-e809a1a78caa",
+    symbol: "AME",
+  },
+  {
+    id: "b0cd8a03bff140cc9145105c998f52f5",
+    name: "Farberware",
+    logoUrl: "/assets/images/farberware.png",
+    maxPoints: 5000,
+    userId: "f4f9d4e0-cc17-4b4b-a18c-e809a1a78caa",
+    symbol: "FW",
+  },
+  {
+    id: "cfb0026097b54f4183e9253bc0f88664",
+    name: "FederEnergia",
+    logoUrl: "/assets/images/federenergia.png",
+    maxPoints: 6000,
+    symbol: "FNG",
+  },
+  {
+    id: "30d15f1b40894e65b7598f32247574f6",
+    name: "Omega",
+    logoUrl: "/assets/images/omega.png",
+    maxPoints: 6000,
+    symbol: "OMG",
+  },
+  {
+    id: "29a66b6365764f7ba642bee4ad5c2b95",
+    name: "King of Prussia",
+    logoUrl: "/assets/images/king_of_prussia.png",
+    maxPoints: 5000,
+    symbol: "KoP",
+  },
+  {
+    id: "fa29e72fd32a476599777607065423ec",
+    name: " Del Amo",
+    logoUrl: "/assets/images/del_am.png",
+    maxPoints: 8000,
+    symbol: "DA",
+  },
+  {
+    id: "efc87768602447f1827c0bb80dc4072d",
+    name: "The Galleria",
+    logoUrl: "/assets/images/the_galleria.png",
+    maxPoints: 3000,
+    symbol: "TG",
+  },
+  {
+    id: "e9d31bbb66c24c218d092472d6614787",
+    name: "Roosevelt Field",
+    logoUrl: "/assets/images/roosevelt_field.png",
+    maxPoints: 5000,
+    symbol: "ROOSF",
+  },
+  {
+    id: "637ee8eac1dc4019a1ee087b4a169c92",
+    name: "ConfimPrese",
+    logoUrl: "/assets/images/confimprese.png",
+    maxPoints: 10000,
+    symbol: "CPr",
+  },
+  {
+    id: "c4622ee4a37741c282eef5ee38e0cc23",
+    name: "Swagrass",
+    logoUrl: "/assets/images/swagrass.png",
+    maxPoints: 5000,
+    symbol: "Swag",
+  },
+];
+
+export default brands;
